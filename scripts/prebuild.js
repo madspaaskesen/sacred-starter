@@ -2,8 +2,8 @@
 // This script is run before the build process to ensure that the dist directory is clean.
 // This script copies the index.html file to 404.html in the dist directory.
 // This is useful for single-page applications (SPAs) that use client-side routing.
-import { copyFileSync } from 'fs'
-import { join } from 'path'
+const { copyFileSync } = require('fs')
+const { join } = require('path')
 
 const distPath = join('dist', 'index.html')
 const errorPath = join('dist', '404.html')
