@@ -59,6 +59,7 @@ This prevents broken links and ensures **deep links and refreshes work properly*
 - 🕊️ [Sacred-AI](https://sacred-ai.com)
 - 📈 [MySiteChart](https://mysitechart.com)
 - 🛠️ [MP-IT](https://mp-it.dk)
+- 🧵 [DDD Favoritter](https://ddd-favoritter.dk)
 
 ---
 
