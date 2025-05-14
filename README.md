@@ -4,11 +4,22 @@ A sacred, minimal Vue 3 + Tailwind + DaisyUI admin layout.
 
 > For founders, healers, and dreamers who need something clean, soft, and ready.
 
+---
+
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![License](https://img.shields.io/github/license/sacred-ai/sacred-starter)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+
+---
+
 ## ✨ Features
 - Vue 3 + Vite
 - Tailwind CSS 4 + DaisyUI
 - AdminLayout with topbar & sidebar
 - Modular routing (Dashboard, Sessions, Users)
+
+---
 
 ## 🌱 Getting Started
 
@@ -17,6 +28,8 @@ npm install
 npm run dev
 ```
 
+---
+
 ## 🛠️ Building for Production
 
 ```bash
@@ -24,6 +37,8 @@ npm run build
 ```
 
 This will create a production-ready version of your Sanctum app inside the `/dist` folder.
+
+---
 
 ### 🌐 Why `404.html` is Created
 
@@ -37,7 +52,18 @@ To solve this:
 
 This prevents broken links and ensures **deep links and refreshes work properly** on all hosting platforms.
 
+---
+
+## 🌐 Related Projects
+
+- 🕊️ [Sacred-AI](https://sacred-ai.com)
+- 📈 [MySiteChart](https://mysitechart.com)
+- 🛠️ [MP-IT](https://mp-it.dk)
+
+---
+
 ## 💛 Made with love by Sacred-AI
 
-🙏 Built by [Mads Paaskesen](https://sacred-ai.com) & [MP-IT](https://mp-it.dk)  
+🙏 Made with clarity and care by [@mads](https://github.com/madspaaskesen) @ [@sacred-ai](https://github.com/Sacred-AI) 💛
+
 🌸 Powered by [Vue 3](https://vuejs.org), [Tailwind CSS](https://tailwindcss.com), [DaisyUI](https://daisyui.com)
